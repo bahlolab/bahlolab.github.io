@@ -25,7 +25,7 @@ A suite of PERL scripts to produce LINKAGE style files from SNP chip data.
 
 #### <a name="brain-coX"></a>[brain-coX](http://shiny.bioinf.wehi.edu.au/freytag.s)
 
-An (R-shiny)[http://shiny.rstudio.com/] application for interactive analysis of
+An [R-shiny](http://shiny.rstudio.com/) application for interactive analysis of
 microarray gene expression datasets from normal human brain tissue.
 
 ---

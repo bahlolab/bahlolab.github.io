@@ -8,7 +8,7 @@ keywords: Bahlo, malaria, statistical genetics, linkage analysis, high-througput
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="https://github.com/bahlolab">github</a></li>
-          <li><a href="http://www.wehi.edu.au/people/melanie-bahlo">WEHI page</a></li>
+          <li><a href="http://www.wehi.edu.au/people/melanie-bahlo">WEHI</a></li>
       </ul>
   </div>
 </div>

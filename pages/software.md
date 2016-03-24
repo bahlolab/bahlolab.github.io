@@ -36,13 +36,14 @@ An R package for in-silico gene prioritisation of using the [Allen Human Brain A
 of developing and adult human brain microarray data.
 
 ---
+
 #### <a name="XIBD"></a>[XIBD](http://bioinf.wehi.edu.au/software/XIBD/index.html)
 
 X-chromosome identity by descent from SNP data.
 
 ---
 
-#### <a name="Haploclusters"</a>[haploclusters](http://bioinf.wehi.edu.au/folders/melanie/haploclusters.html)
+#### <a name="Haploclusters"></a>[haploclusters](http://bioinf.wehi.edu.au/folders/melanie/haploclusters.html)
 
 A suite of R scripts to detect excess haplotype sharing in datasets consisting of case and control haplotypes.
 

@@ -15,7 +15,7 @@ author :
   github : bahlolab
   feedburner : nil
 
-production_url : http://bahlolab.github.io
+production_url : http://bahlolab.github.io/index.html
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)

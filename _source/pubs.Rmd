@@ -1,0 +1,26 @@
+---
+layout: page
+title:  "publications"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(scholar)
+library(dplyr)
+bahlo_uid <- "2JIeJlMAAAAJ"
+scholar_link <- "https://scholar.google.com.au/citations?view_op=view_citation&hl=en&user="
+bahlo_pubid_link <- paste0(scholar_link, bahlo_uid,"&citation_for_view=", bahlo_uid,":")
+```
+
+Recent publications from the Bahlo lab. For a full list see Melanie Bahlo's [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=2JIeJlMAAAAJ) page.
+
+```{r}
+# get 20 most recent publications
+publications <- get_publications(bahlo_uid, pagesize = get_num_articles(bahlo_uid)) %>% 
+  arrange(desc(year)) %>%
+  slice(1:20) %>% 
+  mutate(scholar_link = paste0(bahlo_pubid_link, pubid)) %>%
+  mutate(title = paste0("[", title, "]", "(", scholar_link, ")")) %>% 
+  select(Title = title, Journal = journal, Year = year)
+knitr::kable(publications, format = "markdown")
+```

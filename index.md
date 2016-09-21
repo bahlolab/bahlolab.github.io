@@ -21,8 +21,8 @@ Current lab members
 __left to right__  Karen Oliver, Rick Tankard, Stuart Lee, Lyndal Henden, Peter Diakumis, Melanie Bahlo, Roberto Bonelli, Yu-Chi Liu, Tom Scerri, Saskia Freytag, Rhiannon Jenkins.
 
 ### Research Interests
-* statistical genetics
-* rare disease genomics 
-* infectious disease genomics
-* linkage mapping
+* Statistical genetics
+* Rare disease genomics 
+* Infectious disease genomics
+* Linkage mapping
 * GWAS 

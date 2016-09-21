@@ -11,3 +11,18 @@ keywords: Bahlo, malaria, statistical genetics, linkage analysis, high-througput
       </ul>
   </div>
 </div>
+
+## Bahlo Lab at the Walter and Eliza Hall Insitute
+
+<img src="pages/figures/lab_photo.jpg" alt="Bahlo labl memebers" title="Bahlo lab members 2016"/>
+
+Current lab members 
+
+__left to right__  Karen Oliver, Rick Tankard, Stuart Lee, Lyndal Henden, Peter Diakumis, Melanie Bahlo, Roberto Bonelli, Yu-Chi Liu, Tom Scerri, Saskia Freytag, Rhiannon Jenkins.
+
+### Research Interests
+* statistical genetics
+* rare disease genomics 
+* infectious disease genomics
+* linkage mapping
+* GWAS 

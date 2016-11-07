@@ -5,7 +5,7 @@ title:  "publications"
 
 Selected publications from the Bahlo lab. 
 
-For a complete list of publications, see Melanie Bahlo's [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=2JIeJlMAAAAJ) page.
+A complete list of publications from Melanie Bahlo is available from [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Bahlo%20M%5BAuthor%5D&cmd=DetailsSearch).
 
 ---
 

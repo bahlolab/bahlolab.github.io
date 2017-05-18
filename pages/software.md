@@ -42,6 +42,8 @@ A suite of R scripts to detect excess haplotype sharing in datasets consisting o
 
 An R script to estimate mutation age and confidence intervals using the method in Gandolfo, L. C., Bahlo, M., and Speed, T. P. (2014).
 
+---
+
 #### <a name="Bio::SNP::TOPBOT"></a>[Bio::SNP::TOPBOT](https://github.com/bahlolab/Bio-SNP-TOPBOT)
 
 Perl module and script to find the Illumina TOP/BOT strand of a given SNP, with reference to the forward strand. 

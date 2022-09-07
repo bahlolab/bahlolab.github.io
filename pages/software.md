@@ -44,6 +44,12 @@ An R script to estimate mutation age and confidence intervals using the method i
 
 ---
 
+#### <a name="exSTRa"></a>[exSTRa](https://github.com/bahlolab/exSTRa)
+
+An R package to detect repeat expansions in next-generation sequencing data. 
+
+---
+
 #### <a name="Bio::SNP::TOPBOT"></a>[Bio::SNP::TOPBOT](https://github.com/bahlolab/Bio-SNP-TOPBOT)
 
 Perl module and script to find the Illumina TOP/BOT strand of a given SNP, with reference to the forward strand. 
